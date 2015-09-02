@@ -1,2 +1,2 @@
 # AutoUpdatVPNBookInfo
-Grab Password
+Grab new password from site
